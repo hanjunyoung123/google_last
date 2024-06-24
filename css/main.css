@@ -171,7 +171,7 @@ max-width: 80px;
           left: 50%;
           transform: translate(-50%, -50%);
 }
-button:hover{
+.main_wrap:hover button{
     transition: all 0.5s ease-in-out;
     border:1px solid #ccc;
     color: #333;
